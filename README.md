@@ -1,1 +1,3 @@
 # Kinetic-Equilibrium-Model
+
+In this assignment the equilibrium concentrations of species in the Haber-Bosch process were measured for different sets of rate constants using the theory of chemical kinetics. All of the stoichiometric data as well as concentration data was stored in dictionaries for quick access of information while modeling and plotting. An initial value problem solver was used from SciPy to make quick work of solving the system of differential equations. Graphing was done to help visualize the data but was not absolutely necessary to evaluate the differences between the effect the different sets of rate constants had on equilibrium concentrations at any point during the reaction.
